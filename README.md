@@ -1,6 +1,3 @@
-- 👋 Hi, I’m Carol
-- 🌱 I’m currently learning Python
-- 📫 How to reach me = carolinabpiccagli@outlook.com
 
 
 <!---
